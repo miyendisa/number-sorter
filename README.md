@@ -1,6 +1,6 @@
 # A Simple Number Sorter Program
-This program takes three numbers from the user and sorts them
-by using the if-else statement.
+This program takes three numbers from the user and sorts them 
+from small to large by using the if-else statement.
 
 ---
 
