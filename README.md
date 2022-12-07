@@ -1,5 +1,5 @@
 # A Simple Number Sorter Program
-This program takes three numbers from the user and sorts them 
+This program takes three different numbers from the user and sorts them 
 from small to large by using the if-else statement.
 
 ---
