@@ -6,7 +6,7 @@ by using the if-else statement.
 
 ## Installation
 Clone the project.
-> https://github.com/miyendisa/basic-calculator.git
+> https://github.com/miyendisa/number-sorter.git
 
 ---
 
